@@ -1,3 +1,3 @@
 ﻿my first git!
 Creating a new branch is quick.
-conflicts 1
+conflicts fixed
